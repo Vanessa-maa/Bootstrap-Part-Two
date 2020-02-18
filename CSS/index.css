@@ -1,0 +1,116 @@
+.navbar_index{
+    font-family: "raleway";
+    background-color: aliceblue;
+    color: black;
+    border: 0px;
+}
+.welcome{
+    font-family: "playlist-script";
+    font-size: 80px;
+    color: #2B335C;
+    padding-top: 50px;
+    padding-left: 15px; }
+
+.jumbotron1{
+    background-image: url(../Images/greenery.jpeg);
+    background-repeat: no-repeat;
+    height: 450px;
+    color:#2B335C;
+    padding: 50px;
+    background-size:1850px;
+
+}
+.img1{
+    height: 250px;
+    width: 323px;}
+
+.second_cover{
+ height: 250px;
+ width: 323px;
+}
+.third_cover{
+    height: 250px;
+    width: 323px; 
+
+}
+.last_project{
+    height: 250px;
+    width: 323px;   
+}
+.about_me2{
+    padding: 15px;
+}
+.text{
+   box-sizing: inherit;
+   text-align: left;
+   width: 400px;
+   font-size: 15px;
+
+ }
+.lead{
+    font-size: 15px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.firstbox{
+padding-top: 70px;
+}
+.all_text{
+    font-family: "raleway";
+}
+.about_me2{
+    width: 50px;
+    height: 50px;
+}
+.img-vert {
+    transform: rotate(90deg);
+    width: 500px;
+
+}
+.text2{
+    display: inline-block;
+    text-align: left;
+    width: 600px;
+    padding-top: 50px;
+    padding-left: 50px;}
+
+.endtext{
+    padding-top: 60px;
+    font-family: "playlist-script";
+    font-size: 50px;
+    color: #2B335C;
+    width: 300px;
+    padding-left: 50px;
+}
+.button_color{
+    background-color:#2B335C;
+    border: coral;
+
+}
+.footer{
+    width: 800px;
+    text-align: center;
+    margin-left: 300px;
+    font-family: "raleway";
+    margin-top: 140px;
+    display: block;
+}
+.img-vert {
+    transform: rotate(0deg);
+    width: 330px;
+    height: 510px;
+    margin: auto;
+    margin-left: 300px;
+}
+.smologos{
+    margin-left: 390px;
+    margin-top: 100px;}
+
+.box{
+    width: 100%;
+    height: 550px;
+    margin-top: 70px;
+    background-color:rgb(216, 161, 139);
+    align-items: center;
+
+}
